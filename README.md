@@ -1,2 +1,1 @@
-# DepCalc
-Deposit Calculator
+# KR
